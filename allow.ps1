@@ -1,5 +1,5 @@
-﻿$ErrorActionPreference = 'Stop'
-$User = "support@birklehrms.onmicrosoft.de"
+$ErrorActionPreference = 'Stop'
+$User = "myuser@azure.com"
 $File = ".\file"
 $MyCredential=New-Object -TypeName System.Management.Automation.PSCredential `
 -ArgumentList $User, (Get-Content $File | ConvertTo-SecureString)
