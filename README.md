@@ -20,7 +20,6 @@ Refer to "rules" to check the latest rules.
 
 
 Protocol Name      Access Priority Direction ProvisioningState
--------- ----      ------ -------- --------- -----------------
 TCP      HTTP      Allow  300      Inbound   Succeeded        
 TCP      HTTPS     Allow  310      Inbound   Succeeded        
 TCP      SSH       Allow  320      Inbound   Succeeded        
