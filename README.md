@@ -1,3 +1,5 @@
+This script allows you add or remove Azure network securityrule for specific virtual machine. Also, you can use saved azure credentials to login Microsoft Azure automatically.
+
 How to use "conf" File.
 
 
